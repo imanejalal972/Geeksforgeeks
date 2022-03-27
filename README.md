@@ -3,7 +3,7 @@
 
 | Title | Difficulty | Solution |
 |-------|------------|----------|
-|[Swap bits](https://practice.geeksforgeeks.org/problems/swap-bits5726/1#)|Easy|[C++](./algorithms/SwapBits/SwapBits.cpp), [JAVA](./algorithms/SwapBits/SwapBits.java)|
+|[Swap bits](https://practice.geeksforgeeks.org/problems/swap-bits5726/1#)|Easy|[C++](./algorithms/SwapBits/SwapBits.cpp), [Java](./algorithms/SwapBits/SwapBits.java), [Python3](./algorithms/SwapBits/SwapBits.py)|
  
  
  
